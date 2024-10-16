@@ -6,8 +6,8 @@
 
 - [Features](#features)
 - [Requirements](#requirements)
-- [Manage Content](#manaje-content)
-- [Customization](#manaje-content)
+- [Manage Content](#manage-content)
+- [Customization](#customization)
 - [Support](#support)
 
 
