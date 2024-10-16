@@ -1,0 +1,485 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-05-23 20:43-0600\n"
+"PO-Revision-Date: 2023-06-09 08:30+0000\n"
+"Last-Translator: \n"
+"Language-Team: Catalan\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: node_modules\n"
+"Report-Msgid-Bugs-To: \n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Loco-Version: 2.6.4; wp-6.2.2"
+
+#. Name of the theme
+msgid "4rt Primera"
+msgstr ""
+
+#: template-home.php:34
+msgid ""
+"4rt PRIMERA te ofrece una atención de primera clase, global y personalizada, "
+"con la tranquilidad que te garantiza un equipo de profesionales cualificado, "
+"asesorándote a lo largo de todas las etapas de la venta, alquiler o "
+"cualquier otra gestión que te ofrecemos."
+msgstr ""
+"4rt PRIMERA et ofereix una atenció de primera classe, global i "
+"personalitzada, amb la tranquil·litat que t'assegura un equip de "
+"professionals qualificat, assessorant-te al llarg de totes les etapes de la "
+"venda, lloguer o qualsevol altra gestió que t'oferim."
+
+#: template-services.php:150
+msgid ""
+"<strong>4rt PRIMERA</strong> colabora con <strong>OXYGEN</strong>, una "
+"prestigiosa y reconocida empresa de interiorismo. Juntos procuramos ofrecer "
+"a nuestros clientes soluciones integrales para sus proyectos de diseño de "
+"interiores dentro de los estándares más altos de calidad. Combinamos nuestra "
+"amplia experiencia y conocimientos para crear espacios únicos y "
+"personalizados que reflejen el estilo y la visión de cada cliente."
+msgstr ""
+"<strong>4rt PRIMERA</strong> col·labora amb <strong>OXYGEN</strong>, una "
+"prestigiosa i reconeguda empresa d'interiorisme. Junts procurem oferir als "
+"nostres clients solucions integrals per als seus projectes de disseny "
+"d'interiors dins dels estàndards més alts de qualitat. Combinem la nostra "
+"àmplia experiència i coneixements per crear espais únics i personalitzats "
+"que reflecteixin l'estil i la visió de cada client."
+
+#: single.php:94 template-contact.php:104
+msgid "Acepto la"
+msgstr "Accepto la "
+
+#: template-services.php:65
+msgid "Administración de Inmuebles"
+msgstr "Administració d'immobles"
+
+#: template-contact.php:62 template-contact.php:63 template-home.php:98
+msgid "Administración de pisos"
+msgstr "Administració de pisos"
+
+#: functions.php:92
+msgid "Algo salió mal, por favor intenta de nuevo."
+msgstr ""
+
+#. Author of the theme
+msgid "Anónimo"
+msgstr ""
+
+#: template-contact.php:34
+msgid "Apellidos"
+msgstr "Cognoms"
+
+#: template-contact.php:54 template-contact.php:55
+msgid "Asesoramiento"
+msgstr "Assessorament"
+
+#: template-home.php:62 template-services.php:21
+msgid "Asesoramiento personalizado"
+msgstr "Asesorament personalitzat"
+
+#: template-services.php:122
+msgid ""
+"Ayudamos a los propietarios a realizar todos los trámites y a tener toda la "
+"documentación necesaria y obligatoria y/o alquilar sus inmuebles:"
+msgstr ""
+"Ajudem els propietaris a realitzar tots els tràmits i a disposar de tota la "
+"documentació necessària i obligatòria per a llogar els seus immobles."
+
+#: single.php:54 index.php:42
+msgid "baños"
+msgstr "banys"
+
+#: footer.php:60
+msgid "C/ de l’Enginyer 1, 1º Piso (08402) Granollers. BARCELONA"
+msgstr "C/ de l’Enginyer 1, 1º Piso (08402) Granollers. BARCELONA"
+
+#: template-services.php:74
+msgid "Cambio de titularidad de suministros y liquidación de consumos."
+msgstr "Canvi de titularitat dels subministraments i la liquidació de consums."
+
+#: template-services.php:125
+msgid "Certificado de eficiencia energética (CEE)"
+msgstr "Certificat d'eficiència energètica (CEE)"
+
+#: template-services.php:76
+msgid "Cobro de rentas al inquilino y abono a la propiedad."
+msgstr "Cobrament dels lloguers a l'inquilí i pagament a la propietat."
+
+#: template-home.php:54
+msgid "Consulta nuestros"
+msgstr "Consulta els nostres"
+
+#: template-services.php:52
+msgid "Consultar financiación"
+msgstr "Consultar finançament"
+
+#: template-services.php:27 template-services.php:81 template-services.php:103
+#: template-services.php:130 template-services.php:153
+msgid "Consúltanos"
+msgstr "Consulta'ns"
+
+#: single.php:112 index.php:70
+msgid "contactar con nosotros"
+msgstr "contactar amb nosaltres"
+
+#: template-services.php:75
+msgid ""
+"Cuidarse de las pequeñas reparaciones que surjan (con presupuesto y "
+"autorización de la propiedad)."
+msgstr ""
+"Cuidar-se de les petites reparacions que sorgeixin (amb pressupost i "
+"autorització de la propietat)"
+
+#: template-services.php:124
+msgid "Cédula de habitabilidad"
+msgstr "Cedul·la d'habitabilitat"
+
+#: template-services.php:77
+msgid "Depósito y control de llaves."
+msgstr "Dipòsit i control de claus."
+
+#: template-services.php:168
+msgid ""
+"Disponemos de propiedades que no están anunciadas y con las que trabajamos "
+"con discreción para mantener la confidencialidad de algunos clientes "
+"propietarios que asi lo solicitan"
+msgstr ""
+"Disposem de propietats que no estan anunciades i amb les quals treballem amb "
+"discreció per mantenir la confidencialitat d'alguns clients propietaris que "
+"ho sol·liciten."
+
+#: single.php:110 index.php:68
+msgid ""
+"Disponemos de propiedades que no están anunciadas y con las que trabajamos "
+"con discreción para mantener la confidencialidad de algunos clientes "
+"propietarios que asi lo solicitan, no dudes en"
+msgstr ""
+
+#: template-home.php:223
+msgid "disponibles"
+msgstr "disponibles"
+
+#: template-services.php:93
+msgid "Documentación"
+msgstr "Documentació"
+
+#: single.php:83 template-contact.php:42 footer.php:17
+msgid "Email"
+msgstr "Email"
+
+#: template-home.php:224
+msgid "Encontramos el hogar que mejor se adapta a ti."
+msgstr "Troba la llar que millor s'adapta a tu."
+
+#: template-home.php:23
+msgid "Entra, tenemos el secreto"
+msgstr "Entra, tenim el secret."
+
+#: single.php:98 template-contact.php:106
+msgid "Enviar mensaje"
+msgstr "Enviar missatge"
+
+#: single.php:75 single.php:80 single.php:85 single.php:90
+#: template-contact.php:31 template-contact.php:35 template-contact.php:39
+#: template-contact.php:43 template-contact.php:99
+msgid "Escribe aquí"
+msgstr "Enviar missatge"
+
+#: template-contact.php:58 template-contact.php:59
+msgid "Financiación"
+msgstr "Finançament"
+
+#: template-home.php:80 template-services.php:41
+msgid "Financiación a medida"
+msgstr "Financiació a mida."
+
+#: template-home.php:14
+msgid "Gestión Inmobiliaria en Granollers"
+msgstr "Gestió Immobiliària a Granollers."
+
+#: functions.php:115
+msgid "Gracias, tu mensaje se ha enviado correctamente."
+msgstr ""
+
+#: single.php:53 index.php:41
+msgid "hab."
+msgstr "hab."
+
+#: template-services.php:97
+msgid "Ingreso de fianzas en el INCASÒL."
+msgstr "Ingressament de fiances a l'INCASÒL."
+
+#: single.php:15 index.php:15 template-home.php:222
+msgid "Inmuebles"
+msgstr "Immobles"
+
+#: template-services.php:126
+msgid "Inspección técnica de edificios (ITE)"
+msgstr "Inspecció tècnica d'edificis (ITE)"
+
+#: template-services.php:148
+msgid "Interiorismo"
+msgstr "Interiorisme"
+
+#: template-home.php:134
+msgid "Interiorismo y reformas"
+msgstr "Interiorisme i reformes"
+
+#: single.php:88 template-contact.php:98
+msgid "Mensaje"
+msgstr "Missatge"
+
+#: template-services.php:100
+msgid "Modificaciones y renovaciones de contratos."
+msgstr "Modificacions i renovacions de contractes."
+
+#: template-contact.php:30
+msgid "Nombre"
+msgstr "Nom"
+
+#: single.php:73
+msgid "Nombre y apellidos"
+msgstr "Nom i cognoms."
+
+#: template-home.php:104
+msgid "Nos encargamos de todo para que no tengas que encargarte de nada.."
+msgstr ""
+
+#: template-home.php:140
+msgid ""
+"Nos encargamos del desarrollo de proyectos de viviendas particulares y "
+"espacios comerciales."
+msgstr ""
+
+#: template-services.php:151
+msgid ""
+"Nuestra colaboración también nos permite ofrecer una amplia gama de servicio;"
+" desde la planificación y el diseño hasta la ejecución y la planificación "
+"del proyecto. Trabajamos mano a mano con nuestros clientes y con el equipo "
+"de <strong>OXYGEN</strong> para garantizar que cada detalle se tenga en "
+"cuento y se cumpla con los estándares más altos de calidad."
+msgstr ""
+"La nostra col·laboració també ens permet oferir una àmplia gamma de serveis, "
+"des de la planificació i el disseny fins a l'execució i la gestió del "
+"projecte. Treballem de la mà amb els nostres clients i amb l'equip <strong> "
+"d'OXYGEN</strong> per assegurar-nos que cada detall s'ha tingut en compte i "
+"es compleixen els estàndards més alts de qualitat."
+
+#: template-home.php:15
+msgid "Nuestra prioridad es conocer y atender los sueños de nuestros clientes."
+msgstr ""
+"La nostra prioritat és conèixer i atendre els somnis dels nostres clients."
+
+#: template-services.php:23
+msgid ""
+"Ofrecemos valoraciones presenciales y gratuitas a nuestros clientes y "
+"futuros, teniendo en cuenta todos los factores y variables que puedan "
+"afectar al inmueble (estado de conservación, ubicación, etc…) de manera que "
+"podemos ofrecer la valoración más precisa y así poder llevar a cabo una "
+"estrategia de comercialización concreta para maximizar su valor."
+msgstr ""
+"Oferim valoracions presencials i gratuïtes als nostres clients actuals i "
+"futurs, tenint en compte tots els factors i variables que puguin afectar a "
+"l'immoble (estat de conservació, ubicació, etcètera). D'aquesta manera, "
+"podem proporcionar la valoració més precisa i, així, implementar una "
+"estratègia de comercialització concreta per maximitzar el seu valor."
+
+#: template-services.php:127
+msgid "Planos…"
+msgstr "Planols..."
+
+#: single.php:96 template-contact.php:104
+msgid "política de privacidad"
+msgstr "política de privacitat."
+
+#: template-services.php:98
+msgid ""
+"Preparación del ITP (Impuesto sobre Transmisiones Patrimoniales) de los "
+"inquilinos."
+msgstr ""
+"Preparació de l'ITP (Impost sobre Transmissions Patrimonials) pels "
+"arrendataris."
+
+#: template-home.php:161
+msgid "Promociones exclusivas"
+msgstr "Promocions exclusives."
+
+#: template-contact.php:90 template-contact.php:91
+msgid "Quiero alquilar"
+msgstr ""
+
+#: template-contact.php:82 template-contact.php:83
+msgid "Quiero comprar"
+msgstr ""
+
+#: template-contact.php:86 template-contact.php:87
+msgid "Quiero vender"
+msgstr ""
+
+#: template-home.php:36
+msgid "Quiénes somos"
+msgstr "Qui som"
+
+#: template-services.php:72
+msgid "Realización de inventario de mobiliario, si es necesario."
+msgstr "Realització d'inventari de mobiliari, si és necessari."
+
+#: template-services.php:96
+msgid "Redacción y trámite de cancelación/resolución de contratos de alquiler."
+msgstr "Redacció i tràmit de cancel·lació/resolució de contractes de lloguer."
+
+#: template-services.php:95
+msgid "Redacción, registro y formalización de contratos de alquiler."
+msgstr "Redacció, registre i formalització de contractes de lloguer."
+
+#: template-services.php:73
+msgid "Revisión y puesta a punto de la vivienda."
+msgstr "Revisió i posada a punt de l'habitatge."
+
+#: index.php:46 template-home.php:70 template-home.php:88 template-home.php:106
+#: template-home.php:124 template-home.php:142 template-home.php:167
+msgid "Saber más"
+msgstr "Saber més"
+
+#: template-services.php:71
+msgid "Selección/filtrado de arrendatarios y futuros inquilinos."
+msgstr "Selecció/filtratge d'arrendataris i futurs inquilins."
+
+#: template-contact.php:70 template-contact.php:71
+msgid "Servicio jurídico"
+msgstr "Servei jurídic."
+
+#: template-home.php:55
+msgid "Servicios"
+msgstr "Serveis"
+
+#: single.php:70
+msgid "Solicitar información"
+msgstr "Sol·licitar informació "
+
+#: template-services.php:24
+msgid ""
+"Tanto si dispone de una pequeña propiedad, como de una cartera de inmuebles, "
+"en 4rt PRIMERA le proporcionaremos la tranquilidad que necesita."
+msgstr ""
+"Tant si disposeu d'una petita propietat com d'una cartera d'immobles, a 4rt "
+"PRIMERA us proporcionarem la tranquil·litat que necessiteu."
+
+#: template-services.php:69
+msgid "Tareas"
+msgstr "Tasques"
+
+#: template-services.php:78
+msgid ""
+"Tarifas especiales para la tramitación de desahucios, ocupaciones ilegales "
+"y/o cualquier otra incidencia legal que se precise, a través de nuestro "
+"equipo de Asesoría Legal."
+msgstr ""
+"Tarifes especials per a la tramitació d'actes de desnonament, ocupacions "
+"il·legals i/o qualsevol altra incidència legal que sigui necessària, a "
+"través del nostre equip d'Assessoria Legal."
+
+#: template-home.php:33
+msgid "Te acompañamos"
+msgstr "T'acompanyem"
+
+#: template-home.php:68
+msgid "Te acompañamos en todo momento para garantizarte plena satisfacción."
+msgstr ""
+
+#: template-services.php:50
+msgid ""
+"Te ayudamos a conseguir la financiación con las mejores condiciones. "
+"Especialistas hipotecarios te acompañan en todo el proceso de la "
+"financiación, bien seas particular o empresa."
+msgstr ""
+"T'ajudem a aconseguir el finançament amb les millors condicions. "
+"Especialistes hipotecaris t'acompanyen en tot el procés del finançament, "
+"tant si ets particular com empresa."
+
+#: template-home.php:86
+msgid ""
+"Te ayudamos a conseguir las mejores condiciones hipotecarias  del mercado."
+msgstr ""
+
+#: single.php:78 template-contact.php:38 footer.php:24
+msgid "Teléfono"
+msgstr "Telèfon"
+
+#: footer.php:66
+msgid "Todos los derechos reservados."
+msgstr "Tots els drets reservats."
+
+#: template-services.php:99
+msgid "Tramitación de seguros para cubrir el impago de rentas."
+msgstr "Tramitació d'assegurances per cobrir el impagament de rendes."
+
+#: template-services.php:121
+msgid "Tramitamos Certificados Energéticos y Cédulas de habitabilidad."
+msgstr "Tramitem Certificats Energètics i Cèdules d'habitabilitat."
+
+#: template-contact.php:66 template-contact.php:67 template-home.php:116
+#: template-services.php:120
+msgid "Trámites, valoraciones y tasaciones"
+msgstr "Tràmits, valoracions i tasacions."
+
+#: template-services.php:66
+msgid ""
+"Un servicio dedicado a los propietarios de inmuebles de alquiler. Buscamos "
+"que se despreocupen de la gestión mientras nosotros nos ocupamos de las "
+"siguientes tareas y documentación:"
+msgstr ""
+"Un servei dedicat als propietaris d'immobles de lloguer. Busquem que es "
+"despreocupin de la gestió mentre nosaltres ens ocupem de les següents "
+"tasques i documentació:"
+
+#: template-home.php:122
+msgid ""
+"Un servicio más que te ofrecemos para la venta o alquiler de tu vivienda.."
+msgstr ""
+
+#: template-home.php:227
+msgid "Ver inmuebles en exclusiva"
+msgstr ""
+
+#: template-home.php:17
+msgid "Ver servicios"
+msgstr "Veure serveis"
+
+#: footer.php:59
+msgid "Visítanos"
+msgstr "Visita'ns"
+
+#: template-services.php:149
+msgid "y reformas"
+msgstr "i reformes"
+
+#: template-contact.php:78
+msgid "¿En que podemos ayudarte?"
+msgstr ""
+
+#: template-contact.php:50
+msgid "¿En qué servicios estás interesado/a?"
+msgstr "En quins serveis estàs interessat/interessada?"
+
+#: template-contact.php:25
+msgid "¿Hablamos?"
+msgstr "Parlem?"
+
+#: template-services.php:42 template-services.php:49
+msgid "¿Qué necesitas?"
+msgstr "¿En què puc ajudar-te?"
+
+#: template-home.php:179
+msgid "Ático, exclusivitat al Centre, en Centre Granollers"
+msgstr "Àtic, exclusivitat al centre, al Centre de Granollers."
+
+#: template-home.php:225
+msgid "Échale un vistazo a todos nuestros inmuebles disponibles en"
+msgstr "Fes un cop d'ull a tots els nostres immobles disponibles a"

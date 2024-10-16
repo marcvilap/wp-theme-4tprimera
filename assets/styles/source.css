@@ -1,0 +1,101 @@
+@import '../../node_modules/swiper/swiper.min.css';
+
+@font-face { font-family: 'Aeonik'; font-style: normal; font-weight: 400; font-display: swap; src: url(../fonts/Aeonik-Regular.woff2) format('woff2') }
+@font-face { font-family: 'Aeonik'; font-style: normal; font-weight: 500; font-display: swap; src: url(../fonts/Aeonik-Medium.woff2) format('woff2') }
+@font-face { font-family: 'Aeonik'; font-style: normal; font-weight: 700; font-display: swap; src: url(../fonts/Aeonik-Bold.woff2) format('woff2') }
+@font-face { font-family: 'Recoleta'; font-style: normal; font-weight: 300; font-display: swap; src: url(../fonts/Recoleta-Light.woff2) format('woff2') }
+@font-face { font-family: 'Recoleta'; font-style: normal; font-weight: 400; font-display: swap; src: url(../fonts/Recoleta-Regular.woff2) format('woff2') }
+@font-face { font-family: 'Recoleta'; font-style: normal; font-weight: 500; font-display: swap; src: url(../fonts/Recoleta-Medium.woff2) format('woff2') }
+@font-face { font-family: 'Recoleta'; font-style: normal; font-weight: 700; font-display: swap; src: url(../fonts/Recoleta-Bold.woff2) format('woff2') }
+@font-face { font-family: 'Cochocib Script Latin Pro'; font-style: normal; font-weight: 700; font-display: swap; src: url(../fonts/cochocib-script-latin-pro.woff2) format('woff2') }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	@media (max-width: 400px) { html { font-size: 4vw } }
+	html { @apply antialiased }
+	a { text-decoration-thickness: 1px; text-underline-offset: 4px; }
+}
+
+@layer components {
+	.alert { @apply p-2 text-sm mt-4 hidden text-center }
+	.alert--success { @apply block bg-green-200 text-green-800 }
+	.alert--failure { @apply block bg-red-200 text-red-800 }
+
+	.input-text { @apply w-full border-0 border-b border-bronze-400 py-2 rounded-none outline-none placeholder:text-bronze-400/50 }
+	.button { @apply bg-black text-white text-base h-12 px-6 rounded inline-flex items-center gap-4 }
+
+	.prose a { @apply text-blue-600 hover:underline }
+	.prose p, .prose h1, .prose h2, .prose h3, .prose h4, .prose h5, .prose h6 { @apply mb-4 }
+	.prose h1 { @apply text-5xl }
+	.prose h2 { @apply text-4xl }
+	.prose h3 { @apply text-3xl }
+	.prose h4 { @apply text-2xl }
+	.prose h5 { @apply text-xl }
+	.prose h6 { @apply text-lg }
+	.prose ul, .prose ol { @apply mb-4 pl-6 }
+	.prose ul { @apply list-disc }
+	.prose ol { @apply list-decimal }
+	.prose > *:last-child { @apply mb-0 }
+
+	[class*="icon-"] { @apply inline-block w-6 aspect-square bg-current; mask-repeat: no-repeat; mask-position: center; }
+	.icon-arrow-down { mask-image: url(../icons/arrow-down.svg); }
+	.icon-arrow-left { mask-image: url(../icons/arrow-left.svg); }
+	.icon-arrow-right { mask-image: url(../icons/arrow-right.svg); }
+	.icon-diamond { mask-image: url(../icons/diamond.svg); }
+	.icon-email { mask-image: url(../icons/email.svg); }
+	.icon-facebook { mask-image: url(../icons/facebook.svg); }
+	.icon-fotocasa { mask-image: url(../icons/fotocasa.svg); }
+	.icon-habitaclia { mask-image: url(../icons/habitaclia.svg); }
+	.icon-hand { mask-image: url(../icons/hand.svg); }
+	.icon-instagram { mask-image: url(../icons/instagram.svg); }
+	.icon-less { mask-image: url(../icons/less.svg); }
+	.icon-linkedin { mask-image: url(../icons/linkedin.svg); }
+	.icon-lock { mask-image: url(../icons/lock.svg); }
+	.icon-phone { mask-image: url(../icons/phone.svg); }
+	.icon-phone2 { mask-image: url(../icons/phone2.svg); }
+	.icon-pinterest { mask-image: url(../icons/pinterest.svg); }
+	.icon-plus-circle { mask-image: url(../icons/plus-circle.svg); }
+	.icon-plus { mask-image: url(../icons/plus.svg); }
+	.icon-pointer { mask-image: url(../icons/pointer.svg); }
+	.icon-twitter { mask-image: url(../icons/twitter.svg); }
+	.icon-whatsapp { mask-image: url(../icons/whatsapp.svg); }
+	.icon-youtube { mask-image: url(../icons/youtube.svg); }
+	.icon-menu { mask-image: url(../icons/menu.svg); }
+	.icon-close { mask-image: url(../icons/close.svg); }
+
+	.header-menu { @apply flex items-center gap-x-12 font-serif max-lg:flex-col max-lg:m-auto max-lg:gap-8 max-lg:text-2xl }
+	.header-menu > li:nth-last-child(2) { @apply pl-8 relative lg:ml-auto }
+	.header-menu > li:nth-last-child(2)::before { @apply content-[''] absolute icon-phone2 left-0 h-6 w-6 bg-bronze-400 }
+	.header-menu > li:nth-last-child(1) > a { @apply inline-block bg-stone-50 text-black px-4 py-3 rounded text-base }
+
+}
+
+@layer utilities {
+	.bg-banner-home { background-image: url(../images/banner-home.jpg) }
+	.bg-banner-about { background-image: url(../images/banner-about.jpg) }
+	.bg-banner-services { background-image: url(../images/banner-services.jpg) }
+	.bg-banner-contact { background-image: url(../images/banner-contact.jpg) }
+	.bg-banner-property { background-image: url(../images/banner-property.jpg) }
+	.bg-banner-property2 { background-image: url(../images/banner-property2.jpg) }
+}
+
+.writing-mode-vertical { writing-mode: vertical-rl; }
+
+.languages .current-lang {@apply font-semibold }
+
+[data-effect] { transition-duration: 1s; transition-timing-function: cubic-bezier(.4,0,.2,1); }
+[data-effect=zoom-in] { transition-property: opacity, transform; opacity: 0; transform: scale(.7); }
+[data-effect=zoom-in].animate { opacity: 1; transform: scale(1); }
+[data-effect=fade-in] { transition-property: opacity; opacity: 0; }
+[data-effect=fade-in].animate { opacity: 1; }
+[data-effect=fade-up] { transition-property: opacity, transform; opacity: 0; transform: translateY(6rem); }
+[data-effect=fade-up].animate { opacity: 1; transform: translateY(0rem); }
+[data-effect=fade-down] { transition-property: opacity, transform; opacity: 0; transform: translateY(-6rem); }
+[data-effect=fade-down].animate { opacity: 1; transform: translateY(0rem); }
+[data-effect=fade-left] { transition-property: opacity, transform; opacity: 0; transform: translateX(6rem); }
+[data-effect=fade-left].animate { opacity: 1; transform: translateX(0rem); }
+[data-effect=fade-right] { transition-property: opacity, transform; opacity: 0; transform: translateX(-6rem); }
+[data-effect=fade-right].animate { opacity: 1; transform: translateX(0rem); }
